@@ -926,10 +926,9 @@ body {
 }
 
 .no-webp .new__container{
-  background: url("../img/new/bg.jpg") 0 0 no-repeat; }
+  background: url("../img/new/bg.jpg") 0 0/cover no-repeat; }
 
 .new__container {
-  background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -1859,6 +1858,6 @@ body {
 
 .webp .make{ background: url(../img/make/bg.webp) 0 0 repeat; }
 
-.webp .new__container{ background: url(../img/new/bg.webp) 0 0 no-repeat; }
+.webp .new__container{ background: url(../img/new/bg.webp) 0 0/cover no-repeat; }
 
 .webp .cater__container{ background: url(../img/cater/bg.webp) 0 0 no-repeat; }
