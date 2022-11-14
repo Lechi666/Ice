@@ -1395,7 +1395,7 @@ body {
   }
 
   .freshly__title {
-    font-size: 5rem;
+    font-size: 3.75rem;
   }
 
   .featured__container {
@@ -1701,7 +1701,7 @@ body {
   }
 
   .freshly__title {
-    font-size: clamp( 5rem , 3.6782608696rem  +  6.6086956522vw , 9.75rem );
+    font-size: clamp( 3.75rem , 2.0804347826rem  +  8.347826087vw , 9.75rem );
   }
 
   .featured__container {
